@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4996'
     url: http://www.gutenberg.org/2009/agents/4996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13324#Apples-Ripe-and-Rosy-Sir--13-And-Other-Stories-for-Boys-and-Girls
 gutenberg_issued: '2004-08-29'
 gutenberg_type: Text
 identifiers:
